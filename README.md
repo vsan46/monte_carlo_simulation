@@ -17,6 +17,8 @@ Therefore, $\pi \approx 4 \cdot (\text{hits} / \text{total})$.
 
 The more darts we throw, the closer our estimate of $\pi$ gets to the true value. This demonstrates the Law of Large Numbers.
 
+[monte_carlo_pi_estimation.ipynb](https://github.com/vsan46/monte_carlo_simulation/blob/6cc68bb057247dda340292606e5b7b33fc71ffdf/monte_carlo_pi_estimation.ipynb)
+
 ## Complex Model: Financial Project Forecasting
 
 This model is used to determine the probability of a project being profitable when many of its key inputs are uncertain.
@@ -49,3 +51,5 @@ What is the average expected profit?
 What is the probability of losing money? (e.g., "In 3,100 of the 10,000 trials, the profit was negative, so there is a 31% chance of losing money.")
 
 What is the most likely range of outcomes (e.g., 90% chance the final profit is between -$80,000 and +$210,000).
+
+[monte_carlo_finance.ipynb](https://github.com/vsan46/monte_carlo_simulation/blob/6cc68bb057247dda340292606e5b7b33fc71ffdf/monte_carlo_finance.ipynb)
